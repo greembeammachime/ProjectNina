@@ -1,10 +1,2 @@
-# ProjectNina
-Mainly a VGM Player created from the [SGDK](https://github.com/Stephane-D/SGDK) that I started back in September 2020. The version of SGDK I used to make it (correction: am still using) is 1.51.
-
-# ABOUT
-This is my own personal project where I intended to:
-  ~Write a novel about my OC, Nina.
-  ~Make a game + original soundtrack featuring her and the world she lives in.
-  ~Create an animated series adaptation.
-  ~Profit???
-As of now (April 2020), I'm stuck between the first and second plans, but so far I haven't given up! Right now
+# PROJECT NINA (2021) [this is the rom header by the way]
+(FOR GITHUB ONLY) Mainly a VGM Player created from the [SGDK](https://github.com/Stephane-D/SGDK) that I started back in September 2020. The version of SGDK I used (correction: am still using) to make it is 1.51. PROJECT NINA is my own personal project I won't go into detail about at all. All of the songs (and more) can be found on my [Soundcloud](https://soundcloud.com/theclo4ked1) if you ever want to listen to them on your own time. IF.
