@@ -13,10 +13,11 @@ All music and in-game visuals are made by ME, except...
 * ALL the bois who created SGDK, for helping literally everyone
 * Some dudes in the SGDK Discord Sever, for answering my questions about fonts and `state` and `changed` buttons
 * The tutorials over at [OHSAT GAMES](https://www.ohsat.com/), for helping me start progamming
+* Mr. Lange, for the one sound effect used in build_7.20.21
 * Sonic the Hedgehog, for being cool
 * ur mom ;) just becuase
-* Nina G. Willow, for...
-* me lol, for...
+* Nina G. Willow
+* me lol
 * Notepad, for my programming
 * Deflemask, for my music
 * MS Paint, for existing in my computer
